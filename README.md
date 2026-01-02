@@ -135,4 +135,3 @@ Edit the script to change:
 - OpenAI GPT-4o-mini: ~$0.01-0.02 per script
 - ElevenLabs TTS: ~$0.10-0.20 per 2-minute audio (free tier: 10,000 chars/month)
 - OpenAI TTS: ~$0.03-0.06 per 2-minute audio (cheaper alternative)
-
